@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Geog863Final/static/css/main.0394659a.css",
+    "main.js": "/Geog863Final/static/js/main.e1344053.js",
+    "static/js/496.9625ab7b.chunk.js": "/Geog863Final/static/js/496.9625ab7b.chunk.js",
+    "static/media/schools.svg": "/Geog863Final/static/media/schools.425ef557c521ab48c1719ebfe901500a.svg",
+    "index.html": "/Geog863Final/index.html",
+    "main.0394659a.css.map": "/Geog863Final/static/css/main.0394659a.css.map",
+    "main.e1344053.js.map": "/Geog863Final/static/js/main.e1344053.js.map",
+    "496.9625ab7b.chunk.js.map": "/Geog863Final/static/js/496.9625ab7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0394659a.css",
+    "static/js/main.e1344053.js"
+  ]
+}
